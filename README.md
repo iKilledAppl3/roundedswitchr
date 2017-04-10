@@ -1,5 +1,5 @@
 
-# Source Code for RoundedSwitchr licensed under the Apache License 
+# Source Code for RoundedSwitchr 
 
 RoundedSwitchr "Shape your cards your way!" I open sourced this tweak for others to learn :)
 
@@ -7,7 +7,7 @@ If you use any of this code please credit me :)
 
 Improve the code or add features as you wish just fork it or make a pull request but email me or tweet at me if you want the changes to be live
 
-# License
+# License (Apache License)
 
 Copyright 2016 iKilledAppl3 & ToxicAppl3 Inc.
 
